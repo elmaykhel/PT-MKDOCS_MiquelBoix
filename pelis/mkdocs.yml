@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Pelis_MiquelBoix
+nav:
+    - Película: index.md
+    - El señor de los anillos - La comunidad del anillo: anillos.md
+    - Sherlock Holmes: holmes.md
+    - Vengadores - Infinity War: avengers.md
+    - Harry Potter - El Prisionero de Azkaban: potter.md
+    - About: about.md 
+theme: readthedocs
+include_search_page: true
+copyright: Hecho por Miquel Boix Posada
